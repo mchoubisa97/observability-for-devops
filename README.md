@@ -40,8 +40,8 @@ In modern DevOps, observability is key to ensuring the health and performance of
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Observability-For-DevOps.git
-    cd Observability-For-DevOps
+    git clone https://github.com/yourusername/observability-For-DevOps.git
+    cd observability-For-DevOps
     ```
 
 2. **Ensure Docker and Docker Compose are installed**:
@@ -55,7 +55,7 @@ In modern DevOps, observability is key to ensuring the health and performance of
     
 4. **Run the stack**:
     ```bash
-    docker compose up -d
+    docker-compose up -d
     ```
 
 ## Usage
